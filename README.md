@@ -1,2 +1,2 @@
 # Linux-Command
-Linux Command Line
+[wiki Linux-command](https://github.com/mrolarik/Linux-Command/wiki)
