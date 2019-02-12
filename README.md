@@ -12,7 +12,7 @@ Welcome to the Linux-Command wiki!
 * [top - show current process running](https://github.com/mrolarik/Linux-Command/wiki/Top-:-Show-Current-Running-Process)
 * [find & locate - locating files on Linux](https://github.com/mrolarik/Linux-Command/wiki/find-&-locate-:-locating-files-on-Linux)
 * [redirect - redirect output to file](https://github.com/mrolarik/Linux-Command/wiki/Redirect-:-Redirect-output-to-file)
-* [grep and pipe - Understanding grep and pipe command in Linux](https://github.com/mrolarik/Linux-Command/wiki/grep-and-pipe-:--Understanding-gerp-and-pipe-command-in-Linux)
+* [grep and pipe - Understanding grep and pipe command in Linux](https://github.com/mrolarik/Linux-Command/wiki/grep-and-pipe-:--Understanding-grep-and-pipe-command-in-Linux)
 * [rsync](https://github.com/mrolarik/Linux-Command/wiki/rsync-:-Remote-Sync)
 * [user - Linux users and groups](https://github.com/mrolarik/Linux-Command/wiki/user-:-Linux-users-and-groups)
 * [user - remove user account and group](https://github.com/mrolarik/Linux-Command/wiki/User-:-Remove-user-account-and-group)
