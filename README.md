@@ -19,6 +19,6 @@ Welcome to the Linux-Command wiki!
 * [chmod]()
 
 
-
-
 * [Backup Data](https://github.com/mrolarik/Linux-Command/wiki/Backup-data-using-bash-script)
+
+![image](https://networknuts.files.wordpress.com/2012/06/linux-commands.png)
